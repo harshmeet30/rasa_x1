@@ -27,4 +27,4 @@ stories:
 - story: weather story
   steps:
   - intent: weather
-  - action: utter_happy
+  - action: utter_weather

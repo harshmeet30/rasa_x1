@@ -84,5 +84,6 @@ nlu:
     - am I talking to a human?
 - intent: weather
   examples: |
-    - weather is awesome
-    - nice weather
+    - tell me about weather
+    - how is the weather
+    - weather specs
